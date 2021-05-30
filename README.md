@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
+[Check out my Round 1 log.](https://github.com/scotnewbury/100-days-of-code/blob/master/r1-log.md)
+
 ## Contents
 
 * [Rules](rules.md)
