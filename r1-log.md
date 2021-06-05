@@ -4,10 +4,13 @@ The log of my #100DaysOfCode challenge. Started on May 30th, 2021.
 
 ## Log
 
-### R1D2 - Tuesday 2021-06-01
+### R1D3 - Friday, 2021-06-04
+Back on track after missng a couple of days due to work requirements. Today I went back to basics, practiced with typing variables and conditional statements.
+
+### R1D2 - Tuesday, 2021-06-01
 Opted to build a small madlib program for the terminal. Used input to collect user suggestions and then deplayed output using the tripple quote method for a text block and formatted string notation for the substitutions.
 
-### R1D1 - Monday 2021-05-31
+### R1D1 - Monday, 2021-05-31
 Spent the day working through the basics of the python and started working some of the python katas on codewars.
 
 ### R1D0 - Sunday, 2021-05-30
