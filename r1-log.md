@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on May 30th, 2021.
 
 ## Log
 
+### R1D4 - Saturday, 2021-06-05
+Continued with the basics today, created some simple scripts instead of following along to reinforce material covered in the course lectures. 
+
 ### R1D3 - Friday, 2021-06-04
 Back on track after missng a couple of days due to work requirements. Today I went back to basics, practiced with typing variables and conditional statements.
 
