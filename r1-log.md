@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on May 30th, 2021.
 
 ## Log
 
+### R1D5 - Sunday, 2021-0-06
+Took a detour today and did some work with the phonenumbers module after seeing a tutorial on it. Switched things up a bit from the tutorial but taking user input instead of hard coding the numbers or pulling from a text file. Included an if statement to deal with blank results.
+
 ### R1D4 - Saturday, 2021-06-05
 Continued with the basics today, created some simple scripts instead of following along to reinforce material covered in the course lectures. 
 
