@@ -4,7 +4,10 @@ The log of my #100DaysOfCode challenge. Started on May 30th, 2021.
 
 ## Log
 
-### R1D6 - Monday 2021-06-08
+### R1D7 - Tuesday, 2021-06-08
+Back on python. Continued to work list sectino of Complete Python Developer course. Extended coding samples show to include input statments to append and pop items frm a list. Also applied DRY and wrote a function to print the list when needed.
+
+### R1D6 - Monday, 2021-06-07
 Shifted gears today and spent a little time reviewing some javascript basics - don't wnat to let the skill set slip too much while learning python.
 
 ### R1D5 - Sunday, 2021-0-06
