@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on May 30th, 2021.
 
 ## Log
 
+### R1D8 - Wednesday, 2021-06-09
+Today was spent learning about dictionaries. Reviewed how they are constructed and the various methods used to update and add to them.
+
 ### R1D7 - Tuesday, 2021-06-08
 Back on python. Continued to work list sectino of Complete Python Developer course. Extended coding samples show to include input statments to append and pop items frm a list. Also applied DRY and wrote a function to print the list when needed.
 
